@@ -1,0 +1,6 @@
+com/example/animation/MainActivity.java
+ com.example.animation.MainActivity
+com/example/animation/BuildConfig.java
+ com.example.animation.BuildConfig
+com/example/animation/AudioActivity.java
+ com.example.animation.AudioActivity
