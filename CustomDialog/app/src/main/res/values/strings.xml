@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="open_dialog">Open Dialog</string>
+</resources>
