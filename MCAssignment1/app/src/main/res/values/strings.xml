@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kiddos</string>
+    <string name="colorsBtnName">Colors</string>
+    <string name="alphabetsBtnName">Words</string>
+    <string name="mathsBtnName">Maths</string>
+    <string name="correctAnswer">Correct Answer</string>
+    <string name="wrongAnswer">Wrong Answer</string>
+</resources>
